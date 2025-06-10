@@ -43,7 +43,10 @@ Real-Time Applications:
 * Can be used by data analysts to fetch and process weather data quickly for multiple cities
 * Useful for learning ETL pipeline structure using real-world APIs
 * Acts as a base for building dashboards or data visualizations using the output data
-* Suitable for students building projects without a backend or database
+* Suitable for students building projects without a backend or database 
+
+project output:
+![Image](https://github.com/user-attachments/assets/99458f1a-3785-46f1-9bfb-0d1eb24c793b)
 
 Conclusion:
 This project showcases how data-centric workflows like ETL can be simplified and executed through a combination of client-side logic and Python scripting. With a clear separation between the frontend UI and data processing logic, it offers a scalable foundation for extending into more complex data automation or analytics solutions. 
